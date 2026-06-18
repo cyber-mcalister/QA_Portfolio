@@ -11,12 +11,14 @@
 - Os campos de login/email, senha e o botão de login devem estar na tela
 
 **Steps**
-1. - Digitar um e-mail válido
-2. - Digitar uma senha válida
-3. - Clicar em logar
+1. Digitar um e-mail válido
+2. Digitar uma senha válida
+3. Clicar em logar
 
 **Resultado esperado** — Logar com sucesso
+
 **Resultado obtido** — Login efetuado com sucesso respeitando os parâmetros do cenário.
+
 **Status:** Passou ✅
 
 ---
@@ -28,11 +30,13 @@
 - As abas devem estar em branco antes de serem preenchidas. 
 
 **Steps**
-1. - Deixar os campos de e-mail e senha vazios.
-2. - Clicar em logar
+1. Deixar os campos de e-mail e senha vazios.
+2. Clicar em logar
 
 **Resultado esperado** — Login recusado e mensagem de erro aparece na tela.
+
 **Resultado obtido**  
 - Login negado 
 - mensagem de erro aparece na tela informando que se deve digitar um e-mail e senha válidos.
+  
 **Status:** - Passou ✅
