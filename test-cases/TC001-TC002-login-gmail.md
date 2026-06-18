@@ -1,10 +1,7 @@
 # Test Cases — Login Gmail
 
 ## TC001
-**Título/Cenário**  
-- Digitar um e-mail válido 
-- digitar uma senha válida 
-- clicar em logar.
+**Título/Cenário**: Digitar um e-mail e senha válidos e clicar em logar 
 
 **Pré-condições**  
 - Usuário deve ter conta cadastrada no Gmail. 
@@ -39,4 +36,4 @@
 - Login negado 
 - mensagem de erro aparece na tela informando que se deve digitar um e-mail e senha válidos.
   
-**Status:** - Passou ✅
+**Status:** Passou ✅
