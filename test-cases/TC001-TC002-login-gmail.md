@@ -1,7 +1,7 @@
 # Test Cases — Login Gmail
 
 ## TC001
-**Título/Cenário** — 
+**Título/Cenário**  
 - Digitar um e-mail válido 
 - digitar uma senha válida 
 - clicar em logar.
