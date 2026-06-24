@@ -1,7 +1,5 @@
 # Test Cases — The Internet Login Page
 
-# Test Cases — The Internet Login Page
-
 #TC001
 **Título/Cenário:** Digitar um username e senha válidos e clicar em logar
 
@@ -121,3 +119,4 @@
 **Resultado obtido** - Ao preencher o campo "username" com um usuário inválido e o campo "senha" com "SuperSecretPassword!", e clicar em login, o sistema exibiu a mensagem "Your username is invalid!" em uma caixa vermelha no topo da página, e a tela de login permaneceu visível (não houve redirecionamento).
 
 **Status:** Passou ✅
+
