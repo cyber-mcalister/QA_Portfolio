@@ -17,7 +17,7 @@
 
 **Resultado obtido** — Login efetuado com sucesso respeitando os parâmetros do cenário.
 
-*Status:** Passou ✅
+**Status:** Passou ✅
 
 ---
 ## TC002
