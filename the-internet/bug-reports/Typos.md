@@ -1,4 +1,4 @@
-# Bug Report - The Internet Typos
+# Bug Report - The Internet - Typos
 
 # BR001
 
