@@ -4,7 +4,7 @@
 
 **Cenário:** Erro ortográfico em texto (vírgula (,) no lugar de apóstrofe (') em don't)
 
-**Severidade:**Baixa (não prejudica a leitura do texto, mas prejudica a integridade profissional do mesmo)
+**Severidade:** Baixa (não prejudica a leitura do texto, mas prejudica a integridade profissional do mesmo)
 
 **Prioridade:** Baixa
 
