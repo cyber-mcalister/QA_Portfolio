@@ -1,6 +1,6 @@
 # Bug Report - The Internet - Typos
 
-# BR001
+# BR002
 
 **Cenário:** Erro ortográfico em texto (vírgula (,) no lugar de apóstrofe (') em don't)
 
