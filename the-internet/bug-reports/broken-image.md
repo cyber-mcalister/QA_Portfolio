@@ -4,7 +4,7 @@
 
 **Cenário:** Imagens quebradas na página Broken Images
 
-**Severidade:** Média
+**Severidade:** Média (seria Baixa em ambiente de testes isolado, mas Média se considerado o impacto potencial em produção/e-commerce real)
 
 **Prioridade:** Média
 
