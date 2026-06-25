@@ -1,6 +1,7 @@
 # Bug Report - The Internet Broken Images
 
 # BR001
+
 **Cenario:**  Imagens quebradas na página Broken Images
 
 **Severidade**  Baixa
