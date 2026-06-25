@@ -1,6 +1,6 @@
 # Bug Report - The Internet Broken Images
 
-BR001:
+# BR001
 **Título**  "Imagens quebradas na página Broken Images"
 
 **Severidade**  Baixa
